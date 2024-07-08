@@ -14,7 +14,7 @@ The source code shows how to:
 #. Get a pin specification from the :ref:`devicetree <dt-guide>` as a
    :c:struct:`gpio_dt_spec`
 #. Configure the GPIO pin as an output
-#. Toggle the pin forever
+#.Turn  the pin forever
 
 See :zephyr:code-sample:`pwm-blinky` for a similar sample that uses the PWM API instead.
 
